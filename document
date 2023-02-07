@@ -1,0 +1,5 @@
+to install any software in window using pip3 use command
+
+py -3 -mpip RESTCOMMAND
+
+in pycharm add mysql-connector , mysql-connector-python
